@@ -12,6 +12,10 @@ Scrypt Proof of Work
 
 Public Address Key = 33 "E"
 
+Epoch (nChainStartTime): 1377457970
+
+pszTimestamp = "Egypt, blessing from God."
+
 240 Blocks to Difficulty Retarget
 
 Transaction Comments
