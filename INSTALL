@@ -1,0 +1,9 @@
+Building Egyptcoin
+
+See doc/readme-qt.rst for instructions on building Egyptcoin-QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Egyptcoin.
+
+See doc/build-*.txt for instructions on building egyptcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Egyptcoin.
